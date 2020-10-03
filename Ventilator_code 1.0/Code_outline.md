@@ -1,4 +1,4 @@
-Code Outline
+Code Outline:
 
 Calibrate_machine: 
 
