@@ -14,5 +14,5 @@ The goal of this site is to provide the best information we can, focused on inno
 
 Begin by familiarizing yourselves with our team at About, then the detailed Clinical Report. This is critical to understand the logic underlying the current status of COVID-19 patients and their Respiratory Requirements. We have also posted our Contact Details in case you have any queries about our expedition.
 
-[For more details: ]([URL](https://odtuventcom.wordpress.com/)https://odtuventcom.wordpress.com/)
+### For more details, visit [ODTUVent]([URL](https://odtuventcom.wordpress.com/)
 
